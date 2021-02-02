@@ -10,9 +10,9 @@ hr {
 }
 
 img.header-image {
-	margin-top: -10px;
+	margin-top: -5px;
 	margin-bottom: -5px;
-	width: 138px;
+	width: auto;
 	height: 100px;
 	margin-right: 10px;
 }

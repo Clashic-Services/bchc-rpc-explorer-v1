@@ -84,7 +84,7 @@ block content
 			tr
 				th(class="table-active properties-header") Warnings
 				td(class="monospace")
-					if (getblockchaininfo.warnings && getblockchaininfo.warnings.trim().length > 0)
-						span #{getblockchaininfo.warnings}
+					if (getnetworkinfo.warnings && getnetworkinfo.warnings.trim().length > 0)
+						span #{getnetworkinfo.warnings}
 					else
 						span None
