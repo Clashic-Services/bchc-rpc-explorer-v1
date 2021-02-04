@@ -2,7 +2,7 @@
 
 Simple, database-free Bitcoin Clashic blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 
-This tool is intended to be a simple, self-hosted explorer for the Bitcoin Clashic blockchain, driven by RPC calls to your own titled node. This tool is easy to run but lacks features compared to full-fledged (database-backed) explorers.
+This tool is intended to be a simple, self-hosted explorer for the Bitcoin Clashic blockchain, driven by RPC calls to your own Bitcoin Clashic node. This tool is easy to run but lacks features compared to full-fledged (database-backed) explorers.
 
 We built this tool because we wanted to use it ourself. Whatever reasons one might have for running a full node (trustlessness, technical curiosity, supporting the network, etc) it's helpful to appreciate the "fullness" of your node. With this explorer, you can not only explore the blockchain (in the traditional sense of the term "explorer"), but also explore the functional capabilities of your own node.
 
